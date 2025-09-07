@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	p "prisma"
+	p "github.com/christian-schueler/go-prisma/prisma"
 )
 
 func main() {
